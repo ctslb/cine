@@ -1,6 +1,6 @@
 ## Pagina per le proiezioni da PC
 
-![Image](../images/quadro-grande_small.png)
+![Image](../images/quadro-grande_small@0.5.png)
 
 You can use the [editor on GitHub](https://github.com/ctslb/cine/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
