@@ -1,6 +1,10 @@
 ## Pagina per le proiezioni da PC
 
+Quadro Elettrico Grande
 ![Image](../images/quadro-grande_small@0.5x.png)
+
+Quadro Elettrico Piccolo
+![Image](../images/quadro-piccolo_small@0.5x.png)
 
 You can use the [editor on GitHub](https://github.com/ctslb/cine/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
