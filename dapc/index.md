@@ -6,9 +6,9 @@ Quadro Elettrico Grande
 Quadro Elettrico Piccolo
 ![Image](../images/quadro-piccolo_small@0.5x.png)
 
-Tirar su tutti gli interruttori gialli del quadro elettrico grande
-Per proiettare ddPC su anche tutti interruttori verdi
-Chiudere quadro grande
+1. Tirar su tutti gli interruttori gialli del quadro elettrico grande
+2. Per proiettare da PC tirar su anche tutti gli interruttori verdi
+3. Chiudere quadro grande
 Tirar su tutti gialli e verdi nel quadretto piccolo
 
 accendi pc con interruttore a muro
